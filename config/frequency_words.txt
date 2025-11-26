@@ -34,6 +34,11 @@ NVIDIA
 AMD
 @3
 
+民生
+热点新闻
+上海
+@5
+
 苹果
 Apple
 iphone
@@ -50,6 +55,7 @@ ai
 机器人
 @3
 
+热点新闻
 国产
 中国
 @5
@@ -91,8 +97,8 @@ ai
 航空
 @5
 
-Playstation
-Nintendo
-Xbox
+游戏
+主机
+PC
 Steam
-@3
+@5
